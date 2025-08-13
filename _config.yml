@@ -3,7 +3,7 @@
 title: Darien Nguyen
 locale: en_US
 description: An Inspiring Analyst.
-logo: images/headshot.png
+logo: headshot.png
 url: https://daruwu.github.io/
 
 # Jekyll configuration
@@ -37,21 +37,21 @@ comments: true
 # Site owner
 owner:
   name: Darien Nguyen
-  avatar: headshot.jpg
+  avatar: headshot.png
   email: darienn9910@gmail.com
   disqus-shortname: daruwu
-  #twitter: mmistakes
-  #facebook: michaelrose
-  github: https://github.com/Daruwu
+  twitter: 
+  facebook: 
+  github: Daruwu
   stackexchange:
   linkedin: Darien Nguyen
-  kaggle: https://www.kaggle.com/daruwu
-  #instagram: mmistakes
-  #flickr:
-  #tumblr: mademistakes
-  #pinterest:
-  #weibo:
-  #google:
+  kaggle: daruwu
+  instagram: 
+  flickr:
+  tumblr:
+  pinterest:
+  weibo:
+  google:
     plus: MichaelRoseDesign
     analytics: UA-2011187-2
     verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
