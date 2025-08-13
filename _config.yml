@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: Darien Nguyen
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: An Inspiring Analyst.
 logo: site-logo.png
-url: https://mmistakes.github.io/so-simple-theme
+url: https://daruwu.github.io/
 
 # Jekyll configuration
 
@@ -36,18 +36,18 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: Darien Nguyen
   avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
-  disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
+  email: darienn9910@gmail.com
+  disqus-shortname: daruwu
+  #twitter: mmistakes
+  #facebook: michaelrose
+  github: daruwu
   stackexchange:
-  linkedin:
-  instagram: mmistakes
-  flickr:
-  tumblr: mademistakes
+  linkedin: Darien Nguyen
+  #instagram: mmistakes
+  #flickr:
+  #tumblr: mademistakes
   pinterest:
   weibo:
   google:
